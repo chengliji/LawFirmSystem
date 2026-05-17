@@ -1,0 +1,10 @@
+/* frontend/src/style.css */
+@import "tailwindcss"; 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 覆盖全局底色 */
+body {
+  @apply bg-slate-50 text-gray-800 m-0 p-0;
+}
