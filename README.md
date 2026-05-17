@@ -59,47 +59,46 @@
 ### 1. 后台登录页（Login）
 - 用户身份认证
 - 角色权限识别
-  <img width="3408" height="1898" alt="Screenshot 2026-04-28 at 20-06-44 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/b0bd7be3-b949-4d48-a9af-d2b50a6325bc" />
 
+  <img width="3408" height="1898" alt="Screenshot 2026-05-17 at 20-06-57 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/fde641f5-ce21-46aa-a63e-d1b8fb72d84a" />
 
 ### 2. 控制台首页（Dashboard）
 - 统计栏：案件数、客户数、案件类型分布
 - 关键指标快速览览
 - 实时数据展示
-  <img width="3408" height="1898" alt="Screenshot 2026-04-28 at 20-06-09 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/bac4dcae-242e-44f5-a5d2-019fc2c83869" />
 
+  <img width="3408" height="1898" alt="Screenshot 2026-05-17 at 20-06-15 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/81ffb387-be1b-49f1-98b6-5eb374b4574c" />
 
 ### 3. 收案登记页（CaseRegistration）
 - 冲突检索（必须通过后才能收案）
 - 案件基本信息登记
 - 自动生成流水号
 - 登记后需风控审核
-  <img width="3408" height="5048" alt="Screenshot 2026-04-28 at 20-06-18 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/217bfed7-6319-4ae4-9b20-bd42af0beee0" />
 
+  <img width="3408" height="1898" alt="Screenshot 2026-05-17 at 20-06-33 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/5ffe2504-fe1d-4b66-af9e-449afeff8f3d" />
 
 ### 4. 案件管理页（CaseManagement）
 -  4个关键节点的案件统计
 -  案件流转管理
--  案件作废处理
--  合同解除功能
 -  历史案件导入/导出
--  对接线下函件签发管理
-  <img width="3408" height="2154" alt="Screenshot 2026-04-28 at 20-06-32 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/b251860c-27e4-41be-b60d-fbf738b41e21" />
 
+  <img width="3408" height="1898" alt="Screenshot 2026-05-17 at 20-06-40 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/f2f78ce7-e423-469e-867f-4f7747468e32" />
 
 ### 5. 案件详情页（CaseDetail）
 -  完整案件信息展示
+-  案件作废处理
+-  合同解除功能
 -  关联人员、律师、阶段信息
 -  财务数据详情
 -  案件信息导出功能
-  <img width="3408" height="3096" alt="Screenshot 2026-04-28 at 20-08-54 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/4d4d07ea-2d22-4045-97c9-4b6baaa4bcb5" />
 
+  <img width="3408" height="1898" alt="Screenshot 2026-05-17 at 20-09-06 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/61d65eb3-cb4a-4e98-8bf8-33ae8a2fd893" />
 
 ### 6. 律师管理页（LawyerManagement）
 -  律师基本信息管理
 -  在职/离职状态管理
--  律师案件统计
-  <img width="3408" height="2154" alt="Screenshot 2026-04-28 at 20-12-39 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/a7f7bb62-a0a4-470e-9913-a9fb09bc5d9b" />
+
+  <img width="3408" height="1898" alt="Screenshot 2026-05-17 at 20-06-47 成立律师事务所案件管理系统" src="https://github.com/user-attachments/assets/7785a051-3828-4ffd-a5a5-b6d39e8792a7" />
  
 ---
 
