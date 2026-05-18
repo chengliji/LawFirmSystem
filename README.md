@@ -2,11 +2,6 @@
 
 一款专注于案件全流程管理的律师事务所管理系统，集案件审核（含利冲检索）、合同审核、结案审核(含案卷归档)和已结案等关键环节于一体，支持历史案件批量导入和导出，为中小律师事务所提供高效、专业的案件管理解决方案。
 
-![Language - Vue](https://img.shields.io/badge/Vue-53.9%25-34C26F?logo=vue.js)
-![Language - Python](https://img.shields.io/badge/Python-42%25-3776AB?logo=python)
-![Language - JavaScript](https://img.shields.io/badge/JavaScript-3.6%25-F7DF1E?logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ##  项目特色
